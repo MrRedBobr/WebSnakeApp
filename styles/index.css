@@ -1,0 +1,23 @@
+content{
+    position: absolute;
+    right: 50%;
+    top: 50%;
+    transform: translate(50%, -50%);
+    /* background: #12607f; */
+}
+canvas{
+    border: 2px solid #6a1d94;
+    background: rgb(103, 146, 163);
+}
+button{
+    color: rgb(189, 236, 255);
+    background: rgb(103, 146, 163);
+    border: 2px solid #6a1d94;
+    border-bottom: 0;
+    display: inline;
+}
+body{
+    background: rgb(44, 62, 70);
+    color: rgb(189, 236, 255);
+    text-shadow: 0px 0px 6px black;
+}
